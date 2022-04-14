@@ -1,7 +1,4 @@
 #딕셔너리 key를 사용해 value얻기
-from webbrowser import get
-
-
 grade = {"pey":10,"julliet":99}
 grade["pey"]
 grade["julliet"]
